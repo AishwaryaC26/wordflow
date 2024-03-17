@@ -6,4 +6,5 @@ Wordflow is a social and customizable AI writing assistant tool! With Wordflow, 
 discover and share your favorite prompts with the community.
 
 [Check out Wordflow's Privacy Policy](./privacypolicy.html)
+
 [Check out Wordflow's Demo Video](https://www.youtube.com/watch?v=k-X__z4wOP4)
