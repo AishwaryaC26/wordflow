@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+logo: /images/wordflow-logo.svg
+description:
+show_downloads:
+google_analytics:
