@@ -17,11 +17,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">Wordflow</a></h1>
 
-        {% if site.logo %}
-          <img src="images/wordflow-logo.svg" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <img src="images/wordflow-logo.svg" alt="Logo" width="50px" height="50px"/>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -40,10 +36,11 @@
         {% endif %}
       </header>
       <section>
-
-      <p></p>
-
+      <p>Wordflow is a social and customizable AI writing assistant tool! With Wordflow, you can easily write and run AI prompts with different large language models, including GPT 4 and Gemini Pro. You can also 
+        discover and share your favorite prompts with the community.</p>
+        <a href="https://poloclub.github.io/wordflow/add-on-privacy-policy/">Check out Wordflow's Privacy Policy</a>
       </section>
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
