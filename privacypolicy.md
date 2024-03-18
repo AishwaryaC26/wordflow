@@ -18,6 +18,9 @@ The Extension DOES NOT collect or store any personal or sensitive information. I
 
 The Extension is designed to prioritize user privacy and DOES NOT collect any personal data. Therefore, there is no risk of unauthorized access or misuse of user data.
 
+## Limited Use Disclosure
+Wordflow's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at aishwarya.chakravarthy26@gmail.com or jay@zijie.wang.
