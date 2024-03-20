@@ -7,4 +7,6 @@ discover and share your favorite prompts with the community.
 
 [Check out Wordflow's Privacy Policy](./privacypolicy.html)
 
+[Check out Wordflow's Terms of Service](./termsofservice.html)
+
 [Check out Wordflow's Demo Video](https://www.youtube.com/watch?v=k-X__z4wOP4)
